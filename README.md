@@ -10,15 +10,15 @@ Milestones
 
   You may start by answering the following questions.
 
-1.1. *What do you expect to learn from this project?*
+ [ ] *What do you expect to learn from this project?*
 
-1.2. *Who is the target audience you expect to benefit from this project?*
+ [ ] *Who is the target audience you expect to benefit from this project?*
 
-1.3. *What problem does it solve?*
+ [ ] *What problem does it solve?*
 
-1.4. *What alternatives exist, and what are their strengths and weaknesses?*
+ [ ] *What alternatives exist, and what are their strengths and weaknesses?*
 
-1.5. *What are their major features and differences?*
+ [ ] *What are their major features and differences?*
 
 * Note: All the progress status should be reported/recorded through Git and GitHub.
 
@@ -28,11 +28,11 @@ Milestones
 
   There should be a technical implementation component of the project. This can be hardware and/or software. The exact implementation required will depend on the specific nature of the project.
 
-2.1. *Clearly describe what has been done since the last update,*
+ [ ] *Clearly describe what has been done since the last update,*
 
-2.2. *Specifically address the status of the goals stated in the previous week/meeting's report, and,*
+ [ ] *Specifically address the status of the goals stated in the previous week/meeting's report, and,*
 
-2.3. *State specific goals for the coming week/meeting.*
+ [ ] *State specific goals for the coming week/meeting.*
 
 3. **Demonstration**
 
@@ -49,3 +49,5 @@ Milestones
 1. [Mastering Issues - GitHub](https://guides.github.com/features/issues/)
 
 1. [Requirements milestone (SRS) - Univ. Washington](https://courses.cs.washington.edu/courses/cse403/12sp/requirements-milestone.html)
+
+1. [Basic writing and formatting syntax - GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
