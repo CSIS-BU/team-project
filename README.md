@@ -54,4 +54,4 @@ Milestones
 
 1. [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-1. [Using Git](https://gist.github.com/hofmannsven/6814451]
+1. [Using Git](https://gist.github.com/hofmannsven/6814451)
