@@ -10,15 +10,15 @@ Milestones
 
   You may start by answering the following questions.
 
- [ ] *What do you expect to learn from this project?*
+- [ ] *What do you expect to learn from this project?*
 
- [ ] *Who is the target audience you expect to benefit from this project?*
+- [ ] *Who is the target audience you expect to benefit from this project?*
 
- [ ] *What problem does it solve?*
+- [ ] *What problem does it solve?*
 
- [ ] *What alternatives exist, and what are their strengths and weaknesses?*
+- [ ] *What alternatives exist, and what are their strengths and weaknesses?*
 
- [ ] *What are their major features and differences?*
+- [ ] *What are their major features and differences?*
 
 * Note: All the progress status should be reported/recorded through Git and GitHub.
 
@@ -28,11 +28,11 @@ Milestones
 
   There should be a technical implementation component of the project. This can be hardware and/or software. The exact implementation required will depend on the specific nature of the project.
 
- [ ] *Clearly describe what has been done since the last update,*
+- [ ] *Clearly describe what has been done since the last update,*
 
- [ ] *Specifically address the status of the goals stated in the previous week/meeting's report, and,*
+- [ ] *Specifically address the status of the goals stated in the previous week/meeting's report, and,*
 
- [ ] *State specific goals for the coming week/meeting.*
+- [ ] *State specific goals for the coming week/meeting.*
 
 3. **Demonstration**
 
