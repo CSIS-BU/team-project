@@ -4,7 +4,7 @@ Milestones
 
 1. **Initial Proposal**
 
-  The student must generate a written proposal for the project prior to beginning the work. This proposal describes the general scope of the work and a statement of the problem the project is intended to solve, which includes specific milestones, deliverables a tentative schedule.
+  The student must generate a written proposal for the project prior to beginning the work. This proposal describes the general scope of the work and a statement of the problem the project is intended to solve, which includes specific milestones, deliverables, and a tentative schedule.
 
   If this is to be a group project, the proposal should also address the expected division of responsibilities among the partners. This proposal will usually be about a page in length, although it could be longer depending on the project.
 
