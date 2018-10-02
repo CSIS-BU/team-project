@@ -51,3 +51,7 @@ Milestones
 1. [Requirements milestone (SRS) - Univ. Washington](https://courses.cs.washington.edu/courses/cse403/12sp/requirements-milestone.html)
 
 1. [Basic writing and formatting syntax - GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+1. [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+1. [Using Git](https://gist.github.com/hofmannsven/6814451]
